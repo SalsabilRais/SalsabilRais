@@ -32,4 +32,40 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white" alt="VHDL" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Microchip-EE3124?style=for-the-badge&logo=microchip&logoColor=white" alt="Microchip" />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+- **Languages:** C, Embedded C, C++, VHDL
+- **Microcontrollers & Hardware:** Arduino, ESP32, Sensors (IR, Ultrasonic, Gyroscope, DHT), Serial Protocols[cite: 4]
+- **Software & CAD:** Arduino IDE, Microchip, mBlock, Tinkercad, Circuit Designer Simulator, SolidWorks[cite: 4]
+- **Project Management:** Notion (Databases, task tracking, workflows)[cite: 4]
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.instagram.com/our_world_3d/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/salsabil-rais" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalsabilRais&layout=compact&theme=default" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SalsabilRais&show_icons=true&theme=default" alt="Salsabil's GitHub Stats" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=SalsabilRais&theme=default" alt="GitHub Streak" />
+</p>
