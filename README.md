@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salsabil Rais</h1>
-<h3 align="center">Embedded Systems Student (FST Tangier) | Aerospace, IoT & Robotics Enthusiast</h3>
+<h3 align="center">Bachelor's Student in Embedded Systems (FST Tangier) | Aerospace, IoT & Robotics</h3>
 
 <p align="center">
   <em>Actively seeking a Final-Year Internship (PFE) from April to June 2027 in Embedded Systems, Aerospace Electronics, IoT, or Automation.</em>
@@ -14,9 +14,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Bachelor's student in **Embedded Systems** at **Faculty of Sciences and Techniques (FST), Tangier** (DEUST GESE Graduate, 2024–2026)
+- 🎓 **Currently pursuing a Bachelor's Degree in Embedded Systems** at **Faculty of Sciences and Techniques (FST), Tangier** *(In progress — after graduating with a DEUST in Electrical Engineering & Embedded Systems, 2024–2026)*
 - 🛰️ Currently in charge of the **ADCS & Navigation subsystem** within an **18-member 2U CubeSat team** at **[GreenLab Fablab Tanger](https://www.linkedin.com/company/greenlab-fablab-tanger/posts/?feedView=all)**
-- 🔭 Working on **ESP32, IoT architectures, VHDL & intelligent automated systems**
+- 🔭 Hands-on experience with **ESP32, Arduino, Microchip, VHDL, IoT architectures & intelligent automated systems**
 - 🌱 Training for **HCIA (AI & Cloud Computing)** & competing in the **Huawei ICT Competition (Innovation Track, 2026–2027)**
 - 🏆 **2nd Prize Winner** at the official **mBot2 Robotics Competition**
 - 🤝 Active member at **Code212** (2024–Present) & former member at **Robotech Club** (2024–2026)
