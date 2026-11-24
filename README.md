@@ -14,23 +14,23 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Bachelor's student in **Embedded Systems** at **Faculty of Sciences and Techniques (FST), Tangier** (DEUST GESE Graduate, 2024–2026)[cite: 9, 10]
+- 🎓 Bachelor's student in **Embedded Systems** at **Faculty of Sciences and Techniques (FST), Tangier** (DEUST GESE Graduate, 2024–2026)
 - 🛰️ Currently in charge of the **ADCS & Navigation subsystem** within an **18-member 2U CubeSat team** at **[GreenLab Fablab Tanger](https://www.linkedin.com/company/greenlab-fablab-tanger/posts/?feedView=all)**
-- 🔭 Working on **ESP32, IoT architectures, VHDL & intelligent automated systems**[cite: 9, 10]
-- 🌱 Training for **HCIA (AI & Cloud Computing)** & competing in the **Huawei ICT Competition (Innovation Track, 2026–2027)**[cite: 9, 10]
-- 🏆 **2nd Prize Winner** at the official **mBot2 Robotics Competition**[cite: 9, 10]
-- 🤝 Active member at **Code212** (2024–Present) & former member at **Robotech Club** (2024–2026)[cite: 8, 9, 10]
-- 📫 Reach me at: **salsabil.rais.es@gmail.com**[cite: 9, 10]
+- 🔭 Working on **ESP32, IoT architectures, VHDL & intelligent automated systems**
+- 🌱 Training for **HCIA (AI & Cloud Computing)** & competing in the **Huawei ICT Competition (Innovation Track, 2026–2027)**
+- 🏆 **2nd Prize Winner** at the official **mBot2 Robotics Competition**
+- 🤝 Active member at **Code212** (2024–Present) & former member at **Robotech Club** (2024–2026)
+- 📫 Reach me at: **salsabil.rais.es@gmail.com**
 
 ---
 
 ### 🚀 Featured Projects
 - **🛰️ 2U CubeSat Nanosatellite — ADCS & Navigation ([GreenLab Fablab Tanger](https://www.linkedin.com/company/greenlab-fablab-tanger/posts/?feedView=all)):** Attitude Determination, Control & Navigation subsystem design and sensor integration within an 18-engineer student team *(Ongoing)*.
-- **[Smart-Bus-System](https://github.com/SalsabilRais/Smart-Bus-System):** Intelligent bus system featuring automatic passenger counting, obstacle detection, PRM wheelchair ramp, display interface, and fan-based thermal regulation[cite: 9, 10].
-- **[ESP32-Weather-Station](https://github.com/SalsabilRais/ESP32-Weather-Station):** IoT environmental monitoring station (temperature & humidity via DHT sensor) with an embedded web server for remote tracking[cite: 9, 10].
-- **[ESP32-RC-Car-Controller](https://github.com/SalsabilRais/ESP32-RC-Car-Controller):** Wireless communication link between a custom controller and a mobile robot for precise actuator control[cite: 9, 10].
+- **[Smart-Bus-System](https://github.com/SalsabilRais/Smart-Bus-System):** Intelligent bus system featuring automatic passenger counting, obstacle detection, PRM wheelchair ramp, display interface, and fan-based thermal regulation.
+- **[ESP32-Weather-Station](https://github.com/SalsabilRais/ESP32-Weather-Station):** IoT environmental monitoring station (temperature & humidity via DHT sensor) with an embedded web server for remote tracking.
+- **[ESP32-RC-Car-Controller](https://github.com/SalsabilRais/ESP32-RC-Car-Controller):** Wireless communication link between a custom controller and a mobile robot for precise actuator control.
 - **[Driver-Alert-System](https://github.com/SalsabilRais/Driver-Alert-System):** Real-time driver drowsiness and distraction detection using Python & OpenCV.
-- **[Line-Follower-Robot-mBot2](https://github.com/SalsabilRais/Line-Follower-Robot-mBot2):** Autonomous robot with IR-based trajectory correction algorithm *(Awarded 2nd Prize)*[cite: 9, 10].
+- **[Line-Follower-Robot-mBot2](https://github.com/SalsabilRais/Line-Follower-Robot-mBot2):** Autonomous robot with IR-based trajectory correction algorithm *(Awarded 2nd Prize)*.
 
 ---
 
@@ -50,10 +50,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-- **Languages:** C, Embedded C, C++, Python, VHDL[cite: 9, 10]
-- **Microcontrollers & Hardware:** ESP32, Arduino, Microchip, Sensors (IR, Ultrasonic, Gyroscope, DHT), Serial Protocols[cite: 9, 10]
-- **Software & Simulation:** Arduino IDE, Proteus, mBlock, Tinkercad, Circuit Designer Simulator, SolidWorks[cite: 9, 10]
-- **Project Management:** Notion (Databases, task tracking, workflows)[cite: 9, 10]
+- **Languages:** C, Embedded C, C++, Python, VHDL
+- **Microcontrollers & Hardware:** ESP32, Arduino, Microchip, Sensors (IR, Ultrasonic, Gyroscope, DHT), Serial Protocols
+- **Software & Simulation:** Arduino IDE, Proteus, mBlock, Tinkercad, Circuit Designer Simulator, SolidWorks
+- **Project Management:** Notion (Databases, task tracking, workflows)
 
 ---
 
